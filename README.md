@@ -4,8 +4,8 @@ Security isn't a feature. It's the architecture. Self-host is the future.
 
 ##
 
-![Oqune's github stats](https://github-readme-stats.vercel.app/api?username=Oqune&show_icons=true&theme=nord&hide_border=true&count_private=true)
+[![Oqune's profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oqune&theme=nord)](https://github.com/Oqune)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oqune&layout=compact&theme=nord&hide_border=true)
+[![Oqune's top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oqune&theme=nord)](https://github.com/Oqune)
 
 ![snake animation](https://raw.githubusercontent.com/Oqune/Oqune/output/github-contribution-grid-snake-dark.svg)
