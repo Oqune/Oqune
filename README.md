@@ -1,8 +1,6 @@
-# I'm Misha (Oqune)
+Oqune
 
-> Security isn't a feature. It's the architecture.
-
-I build and self-host. My second brain runs on my own hardware, not someone else's cloud.
+Security isn't a feature. It's the architecture. Self-host is the future.
 
 ##
 
