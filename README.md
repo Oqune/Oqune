@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Oqune
+# Oqune
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Security+isn't+a+feature.+It's+the+architecture.;Post-Quantum+Cryptography+%26+Systems;Rust+%E2%80%A2+Kotlin+%E2%80%A2+WebTransport+%2F+QUIC;Self-host+is+the+future.)](https://github.com/Oqune)
 
@@ -16,16 +16,7 @@ Systems & Security Engineer • Post-quantum cryptography, low-latency networkin
 
 ---
 
-### 🚀 Featured Ecosystem: [Impulse](https://github.com/Oqune/Impulse-server)
-
-> Minimal, self-hosted, **post-quantum end-to-end-encrypted** LAN chat ecosystem.
-
-- 🦀 [**Impulse-server**](https://github.com/Oqune/Impulse-server) — High-throughput zero-plaintext relay on **Rust**, Tokio, WebTransport/QUIC, Argon2id challenge-response, TOFU pinning.
-- 📱 [**Impulse-client**](https://github.com/Oqune/Impulse-client) — Hardened Android client on **Kotlin & Compose**, per-recipient **ML-KEM-768** wrapping, **ML-DSA-65** signatures, Keystore AES-256-GCM.
-
----
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Systems & Backend:** `Rust` · `Tokio` · `C++` · `Linux`
 - **Mobile & UI:** `Android` · `Kotlin` · `Jetpack Compose` · `Room DB`
@@ -33,7 +24,7 @@ Systems & Security Engineer • Post-quantum cryptography, low-latency networkin
 
 ---
 
-### 📊 Activity & Stats
+### Activity & Stats
 
 <div align="center">
 
